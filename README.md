@@ -10,6 +10,7 @@
 ### :book: About Me:
 - I am a fullstack software developer
 - I am a Web Editor at The Stuyvesant Spectator
+- Also love many stacks including MERN and Serverless
 - Love the Kubuntu distro
 
 
