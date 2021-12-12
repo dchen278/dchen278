@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am a passionate fullstack student developer from Stuyvesant High School.</h3>
+<h3 align="center">I am a passionate student developer from Stuyvesant High School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
 - 🔭 I’m currently working on [The Stuyvesant Spectator](https://github.com/stuyspec) among various other projects.
-
+- ⚡ Fun fact: I started coding when I was 10. 
 - 📫 How to reach me: **dchen30@stuy.edu**
+
+### :book: About Me:
+- I am a fullstack software developer
+- I am a Web Editor at The Stuyvesant Spectator
+- Love the Kubuntu distro
 
 
 <h3 align="left">Languages and Tools I use:</h3>
