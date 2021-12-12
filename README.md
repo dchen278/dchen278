@@ -1,5 +1,4 @@
-[![160744959694494596](https://cdn.discordapp.com/attachments/878465038346747935/919666045009149952/banner.png)](https://github.com/dchen278?tab=repositories)
-<h3 align="center">I am a passionate student developer from Stuyvesant High School.</h3>
+[![160744959694494596](https://cdn.discordapp.com/attachments/878465038346747935/919666602633478164/banner.png)](https://github.com/dchen278?tab=repositories)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
