@@ -8,7 +8,7 @@
 
 ### :book: About Me:
 - I am a fullstack software developer
-- I am a Web Editor at The Stuyvesant Spectator and Webmaster at Stuyvesant Key Club
+- I am a Web Editor at The Stuyvesant Spectator and District Webmaster at Key Club International
 
 ### 🖥️ I’m currently learning about:
 - Kubernetes
