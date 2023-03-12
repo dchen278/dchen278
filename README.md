@@ -54,4 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" width="58.8" alt="ruby logo"  />
 </div> </p>
 
-**Feel free to reach out to me as well!**
+<div align="center">
+<img src="https://raw.githubusercontent.com/dchen278/dchen278/output/snake.svg" alt="Snake animation" />
+</div>
+
+**Feel free to reach out to me!**
