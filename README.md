@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
-- 🔭 I’m currently working on [The Stuyvesant Spectator](https://github.com/stuyspec) among various other projects.
-- ⚡ Fun fact: ...
 - 📫 How to reach me: **david.chen.dc2546@yale.edu**
 
 ### :book: About Me:
 - I am a fullstack software developer
-- I was a Web Editor at The Stuyvesant Spectator and currently the District Webmaster at Key Club International
+- I was a Web Editor at The Stuyvesant Spectator and was also the District Webmaster at Key Club International
 
 ### 🖥️ I’m currently learning about:
 - Kubernetes
