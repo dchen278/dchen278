@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [The Stuyvesant Spectator](https://github.com/stuyspec) among various other projects.
 - ⚡ Fun fact: ...
-- 📫 How to reach me: **dchen30@stuy.edu**
+- 📫 How to reach me: **david.chen.dc2546@yale.edu**
 
 ### :book: About Me:
 - I am a fullstack software developer
