@@ -1,12 +1,14 @@
-[![160744959694494596](https://cdn.discordapp.com/attachments/878465038346747935/919666602633478164/banner.png)](https://github.com/dchen278?tab=repositories)
+# Hi! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
+- 🎓 I am a current first-year at Yale and plan on double majoring in Computer Science and Mathematics
+- ✨ Fun Fact: ...
 - 📫 How to reach me: **david.chen.dc2546@yale.edu**
 
 ### :book: About Me:
-- I am a fullstack software developer
-- I was a Web Editor at The Stuyvesant Spectator and was also the District Webmaster at Key Club International
+- Fullstack software developer
+- Was a Web Editor at The Stuyvesant Spectator and was also the District Webmaster at Key Club International
 
 ### 🖥️ I’m currently learning about:
 - Kubernetes
