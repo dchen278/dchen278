@@ -2,17 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
-- 🎓 I am a current first-year at Yale and plan on double majoring in Computer Science and Economics/Mathematics
-- ✨ Fun Fact: ...
+- 🎓 I am a current first-year at Yale and I major in Computer Science and Applied Mathematics
 - 📫 How to reach me: **david.chen.dc2546@yale.edu**
-
-### :book: About Me:
-- Fullstack software developer
-- Was Web Editor at The Stuyvesant Spectator and the District Webmaster at Key Club International
 
 ### 🖥️ I’m currently learning about:
 - Financial Engineering
 - Artificial Intelligence
+- 3D Modeling
 
 <h3 align="left">Languages and Tools I use:</h3>
 <div align="left">
@@ -53,7 +49,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="58.8" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" width="58.8" alt="ruby logo"  />
 </div> </p>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dchen278/dchen278/output/snake.svg" alt="Snake animation" />
-</div>
