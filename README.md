@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchen278&label=Profile%20views&color=0e75b6&style=flat" alt="dchen278" /> </p>
 
-- 🎓 I am a current first-year at Yale and I major in Computer Science and Applied Mathematics
+- 🎓 I am a current second-year at Yale majoring in Applied Mathematics and Computer Science & Economics.
 - 📫 How to reach me: **david.chen.dc2546@yale.edu**
 
 ### 🖥️ I’m currently learning about:
